@@ -1,5 +1,12 @@
 
  <!--index-->
+  p {
+   font-family: 'ArchitectsDaughterRegular';
+   font-weight: normal;
+   font-style: normal;
+   color: #994d00;
+  text-align: center;
+} 
   #nachalo {
   color: #996600;
   font-size:3vw; 
