@@ -1,16 +1,14 @@
 
- <!--index-->
+ /*index*/
   p {
-   font-family: 'ArchitectsDaughterRegular';
+   font-family: 'AucaRegular';
    font-weight: normal;
    font-style: normal;
    color: #994d00;
-  text-align: center;
+   font-size:3vw;
+   text-align: justify;
 } 
-  #nachalo {
-  color: #996600;
-  font-size:3vw; 
-  }
+  <!--#nachalo {color: #996600; font-size:3vw; }-->
   body { 
   background-color: #fff2e6;
   }
@@ -18,18 +16,14 @@
   color: #994d00;
   text-align: center;
   }
-   p {
-  color: #805500;
-  font-size:3vw;
-  }
   
   #tablica:link, #tablica:visited {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   color: black;
   border: 1px solid green;
   padding: 3px 5px;
   text-align: center;
-  text-decoration: none;
+  text-decoration: ;
   display: inline-block;
   }
 
@@ -61,8 +55,9 @@
   img {
   width: 200px;
   }
+   
     
- <!--granada-->
+ /*granada*/
   body { 
   background-color: #fff2e6;
   }
@@ -77,7 +72,7 @@
   width: 320px;
     
   
- <!--sevilla--> 
+ /*sevilla*/
   body { 
   background-color: #fff2e6;
   }
@@ -93,7 +88,7 @@
   }
   
   
- <!--ronda-->
+ /*ronda*/
   body { 
   background-color: #fff2e6;
   }
