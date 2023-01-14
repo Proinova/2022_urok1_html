@@ -8,15 +8,25 @@ padding-right: 60px;
 border: 6px solid hsl(30, 50%, 55%);
 }
 
-
+div p {
+color:#805500;
+margin-top: 5%;
+}
 p {
-font-family: 'AucaRegular';
-font-weight: normal;
+font-family: "AucaRegular", "CovalRegular", sans-serif;
+font-weight: normal; 
 font-style: normal;
 color: #994d00;
 font-size:3vw;
 text-align: justify;
 } 
+/*
+p {
+font-family: 'Certegeitalic';
+font-weight: normal;
+font-style: italic;
+}
+*/
 /*nachalo {color: #996600; font-size:3vw;*/
 body { 
 background-color: #fff2e6;
@@ -54,9 +64,7 @@ text-align: left;
 img {
 width: 300px;
 }
-img {
-width: 200px;
-}
+
 
 
 /*granada*/
@@ -80,17 +88,9 @@ width: 320px;
 }
 
 /*sevilla*/
-border-top: 10px solid rgb(153, 102, 51);
-border-bottom: 10px solid #86592d;
-body { 
-background-color: #fff2e6;
-}
-h1 {
-color: #994d00;
-text-align: center;
-}
-img {
-width: 400px; 
+
+
+
 .beige {
 color: #996600;
 font-size:3vw;
@@ -98,19 +98,8 @@ font-size:3vw;
 
 
 /*ronda*/
-#boxModel {
-margin-top: 40px;
-margin-bottom: 30px;
-margin-left: 15px;
-margin-right: 10px;
-p {
-font-family: 'Certegeitalic';
-font-weight: normal;
-font-style: italic;
-}
-body { 
-background-color: #fff2e6;
-}
+
+
 h1 {
 color: #994d00;
 text-align: center;
@@ -118,18 +107,22 @@ text-align: center;
 div + h1 {
 background-color: yellow;
 }
-.p1 {
+/*.p1 {
 color: #996600;
 font-size:3vw; 
 }
-.p2 {
+div .p2 {
 color: #805500;
 font-size:3vw; 
 }
 .p3 {
 color: #664400;
 font-size:3vw; 
+}*/
+a[target]{
+border: 3px solid pink;
+font-size:3vw;
 }
-img {
-width:400px;
-}
+p.gb::first-letter {
+  font-size: 200%;
+}  
