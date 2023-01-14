@@ -1,6 +1,6 @@
 
 /*index*/
-	#boxModel {
+#boxModel {
 padding-top: 25px
 padding-bottom: 15px;
 padding-left: 60px;
@@ -98,6 +98,7 @@ font-size:3vw;
 
 
 /*ronda*/
+#boxModel {
 margin-top: 40px;
 margin-bottom: 30px;
 margin-left: 15px;
