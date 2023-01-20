@@ -19,6 +19,7 @@
  }
  body {
    background-color: #fff2e6;
+ 	padding-top: 50px;
  }
  #tablica:link, #tablica:visited {
    background-color: rgb(255, 255, 255);
@@ -48,9 +49,9 @@
    color: #994d00;
    text-align: left;
  }
- /*img {
-   width: 300px;
- }*/
+ .flex {
+	 padding-right:1%;
+	 padding-left:1%;
 /*granada*/
  #boxModel {
    border-top: 10px solid rgb(153, 102, 51);
@@ -60,10 +61,7 @@
    color: #994d00;
    text-align: center;
  }
- img {
-   width: 400px;
-   opacity: 0.5 
- }
+ 
  video {
    width: 320px;
  }
