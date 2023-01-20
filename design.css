@@ -27,7 +27,7 @@
    border: 1px solid green;
    padding: 3px 5px;
    text-align: center;
-   text-decoration: ;
+   text-decoration:none ;
    display: inline-block;
  }
  #tablica:hover, #tablica:active {
@@ -57,16 +57,11 @@
    border-top: 10px solid rgb(153, 102, 51);
    border-bottom: 10px solid #86592d;
  }
- h1 {
-   color: #994d00;
-   text-align: center;
- }
- 
- video {
+   video {
    width: 320px;
  }
 /*sevilla*/
- .beige {
+  .beige {
    color: #996600;
    font-size:3vw;
  }
