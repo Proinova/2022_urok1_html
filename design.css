@@ -19,7 +19,7 @@
  }
  body {
    background-color: #fff2e6;
- 	padding-top: 50px;
+   padding-top: 50px;
  }
  #tablica:link, #tablica:visited {
    background-color: rgb(255, 255, 255);
@@ -50,18 +50,18 @@
    text-align: left;
  }
  .flex {
-	 padding-right:1%;
-	 padding-left:1%;
+   padding-right:1%;
+   padding-left:1%;
 /*granada*/
  #boxModel {
    border-top: 10px solid rgb(153, 102, 51);
    border-bottom: 10px solid #86592d;
  }
-   video {
+  video {
    width: 320px;
  }
 /*sevilla*/
-  .beige {
+ .beige {
    color: #996600;
    font-size:3vw;
  }
