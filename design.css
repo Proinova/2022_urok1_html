@@ -19,7 +19,7 @@
  }
  body {
    background-color: #fff2e6;
-   padding-top: 50px;
+ 	 padding-top: 50px;
  }
  #tablica:link, #tablica:visited {
    background-color: rgb(255, 255, 255);
@@ -27,7 +27,7 @@
    border: 1px solid green;
    padding: 3px 5px;
    text-align: center;
-   text-decoration:none ;
+   text-decoration: ;
    display: inline-block;
  }
  #tablica:hover, #tablica:active {
@@ -50,14 +50,19 @@
    text-align: left;
  }
  .flex {
-   padding-right:1%;
-   padding-left:1%;
+	 padding-right:1%;
+	 padding-left:1%;
 /*granada*/
  #boxModel {
    border-top: 10px solid rgb(153, 102, 51);
    border-bottom: 10px solid #86592d;
  }
-  video {
+ h1 {
+   color: #994d00;
+   text-align: center;
+ }
+ 
+ video {
    width: 320px;
  }
 /*sevilla*/
